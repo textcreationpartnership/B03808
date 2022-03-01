@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An invitation to Lubberland, with an account of the great plenty of that fruitful country. There is all sorts of fowl and fish, with wine, and store of brandy; ye have there what your hearts can wish, the hills are sugar-candy. The tune of, Billy and Molly. Or, The journey-man shoe-maker. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03808</idno>
+            <idno type="STC">Wing I290</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[226]</idno>
+            <idno type="EEBO-CITATION">99887722</idno>
+            <idno type="PROQUEST">ocm99887722</idno>
+            <idno type="VID">183384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183384)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[175])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An invitation to Lubberland, with an account of the great plenty of that fruitful country. There is all sorts of fowl and fish, with wine, and store of brandy; ye have there what your hearts can wish, the hills are sugar-candy. The tune of, Billy and Molly. Or, The journey-man shoe-maker. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon, at the Angel in Gilt-spur-street.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "There is a ship we understand ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="226" facs="tcp:183384:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>
+               <hi>An Invitation to Lubberland</hi> WITH An Account of the great Plenty of that Fruitful Country.</head>
+            <argument>
+               <l>There is all ſorts of Fowl and Fiſh,</l>
+               <l>with Wine, and ſtore of Brandy;</l>
+               <l>Ye have there what your Hearts can wiſh,</l>
+               <l>the Hills are Sugar-Candy.</l>
+            </argument>
+            <opener>The Tune of, <hi>
+                  <hi>Billy</hi>and <hi>Molly,</hi>
+               </hi> Or, <hi>The Iourney-man Shoe-maker.</hi>
+            </opener>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <figure>
+                  <sp>
+                     <p>Hey for <hi>Lubberland</hi>
+                     </p>
+                  </sp>
+               </figure>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THere is a ſhip we underſtand,</l>
+               <l>now riding in the river,</l>
+               <l>'Tis newly come from <hi>Lubberland,</hi>
+               </l>
+               <l>the like I think was never;</l>
+               <l>You that a lazy life do love,</l>
+               <l>I'd have you now go over,</l>
+               <l>They ſay the land is not above</l>
+               <l>two thouſand leagues from<hi>Dover.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The captain and the maſter too,</l>
+               <l>do's give us this relation,</l>
+               <l>And ſo do's all the whole ſhip's crew,</l>
+               <l>concerning this ſtrange nation</l>
+               <l>The ſtreets are pav'd with pudding-pies,</l>
+               <l>nay, powder'd-beef and bacon,</l>
+               <l>They ſay they ſcorn to tell you lies:</l>
+               <l>Who thinks it is miſtaken?</l>
+            </lg>
+            <lg>
+               <l>The king of knaves, and queen of ſluts</l>
+               <l>reign there in peace and quiet;</l>
+               <l>You need not fear to ſtarve your guts,</l>
+               <l>there is ſuch ſtore of dyet:</l>
+               <l>There may you live free from all care,</l>
+               <l>like hogs ſet up a fatning,</l>
+               <l>The garments which the people wear,</l>
+               <l>is ſilver, ſilk, and ſattin.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>The lofty buildings of this place,</l>
+               <l>for many years have laſted,</l>
+               <l>With nutmegs, pepper, cloves, and mace,</l>
+               <l>the walls are there rough caſted,</l>
+               <l>In curious haſty-pudding boil'd,</l>
+               <l>and moſt injenſous carving;</l>
+               <l>Likewiſe they are with pancakes ty'd,</l>
+               <l>ſure, here's no fear of ſtarving.</l>
+            </lg>
+            <lg>
+               <l>The captain ſays, In every town,</l>
+               <l>hot roaſted pigs will meet ye,</l>
+               <l>They in the ſtreets run up and down,</l>
+               <l>ſtill crying out, <hi>Come eat me:</hi>
+               </l>
+               <l>Likewiſe he ſays, at e'ery feaſt,</l>
+               <l>the very fowls and fiſhes,</l>
+               <l>Nay, from the biggeſt to the Ieaſt,</l>
+               <l>comes tumbling to the diſhes,</l>
+            </lg>
+            <lg>
+               <l>The rivers run with claret fine,</l>
+               <l>the brooks with rich canary,</l>
+               <l>The ponds with other ſorts of wine,</l>
+               <l>to make your hearts ſtill merry:</l>
+               <l>Nay, more than this, you may behold,</l>
+               <l>the fountains flows with brandy,</l>
+               <l>The rocks are like refined gold,</l>
+               <l>the hills are ſugar-candy.</l>
+            </lg>
+            <lg>
+               <l>Roſe-water is the rain they have,</l>
+               <l>which comes in pleaſant ſhowers</l>
+               <l>All places are adorned brave,</l>
+               <l>with ſweet and fragrant flowers.</l>
+               <l>Hot cuſtards grows on e'ery tree,</l>
+               <l>each ditch affords rich jellies;</l>
+               <l>Now if you will be rul'd by me,</l>
+               <l>go there and fill your bellies.</l>
+            </lg>
+            <lg>
+               <l>There's nothing there but holy-days;</l>
+               <l>with muſick out of meaſure;</l>
+               <l>Who can forbear to ſpeak the praiſe,</l>
+               <l>of ſuch a land of pleaſure?</l>
+               <l>There may you lead a lazy life,</l>
+               <l>free from all kind of labour:</l>
+               <l>And he that is without a wife,</l>
+               <l>may borrow of his neighbour.</l>
+            </lg>
+            <lg>
+               <l>There is no law not lawyers fees.</l>
+               <l>all men are free from fury,</l>
+               <l>For e'ery one do's what he pleaſe,</l>
+               <l>without a judge or jury:</l>
+               <l>The ſummer-time is warm they ſay,</l>
+               <l>the winter's ne'er the colder,</l>
+               <l>They have no landlords rent to pay,</l>
+               <l>each man is a free-holder.</l>
+            </lg>
+            <lg>
+               <l>You that are free to croſs the ſeas,</l>
+               <l>make no more diſputation,</l>
+               <l>In <hi>Lubberland</hi> you'll live at eaſe,</l>
+               <l>with pleaſant recreation:</l>
+               <l>The captain waits but for a gale</l>
+               <l>of proſperous wind and weather,</l>
+               <l>And th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they ſoon will hoiſt up ſail,</l>
+               <l>make haſt away together.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Deacon,</hi> at the Angel in <hi>Gilt-ſpur-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
